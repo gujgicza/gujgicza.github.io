@@ -1,8 +1,6 @@
-# Valami
-
-## List of Publications
+# List of Publications
 * blabla1
 * blabla2
 
-## Talks
+# Talks
 * blabla3
