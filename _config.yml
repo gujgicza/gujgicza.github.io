@@ -1,3 +1,5 @@
 title: Anna Gujgiczer
-theme: minima
-description: Blablabla
+description: blabla
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
