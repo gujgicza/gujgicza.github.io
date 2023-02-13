@@ -1,5 +1,3 @@
-# Anna Gujgiczer
+# List of Publications
 
-## List of Publications
-
-## Talks
+# Talks
