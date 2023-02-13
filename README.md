@@ -1,3 +1,2 @@
 # List of Publications
-
 # Talks
