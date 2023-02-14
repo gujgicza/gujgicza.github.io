@@ -1,4 +1,8 @@
-# List of Publications
+---
+permalink: /publications
+layout: page
+title: List of Publications
+---
 
 *
 *
