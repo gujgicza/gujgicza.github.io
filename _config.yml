@@ -3,8 +3,16 @@ description: |
   PhD student at Budapest University of Technology and Economics
   Faculty of Electrical Engineering and Informatics
   Department of Computer Science and Information Theory
+  
 theme: minima
 
 header_pages:
   - publications.md
   - talks.md
+
+include:
+  - publications.md
+  - talks.md
+  
+exclude:
+  - README.md
