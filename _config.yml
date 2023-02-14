@@ -18,6 +18,7 @@ header_pages:
 include:
   - publications.md
   - talks.md
+  - footer.html
   
 exclude:
   - README.md
