@@ -8,7 +8,7 @@ description: |
   
 email: gujgicza@cs.bme.hu
   
-theme: minima
+#theme: minima
 
 header_pages:
   - about.md
