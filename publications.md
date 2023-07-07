@@ -6,8 +6,9 @@ title: List of Publications
 
 ### Journal papers ###
 
-* Winding number and circular 4-coloring of signed graphs  
-      With: Reza Naserasr,Rohini S, Taruni S  
+* Winding number and circular 4-coloring of signed graphs
+  
+      With: Reza Naserasr, Rohini S, Taruni S
       Journal: Preprint (submitted)  
       Links: [pdf]()
 * Critical subgraphs of Schrijver graphs for the fractional chromatic number  
