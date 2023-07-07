@@ -27,9 +27,9 @@ title: List of Publications
 
 * On the generalized Mycielskian of complements of odd cycles  
   * With: Gábor Simonyi, Gábor Tardos  
-  * Conference: 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications  
-  * Links: [pdf](), [conference proceedings](http://cs.bme.hu/jh2023/kotet23.pdf)  
+  * Conference: 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications (2023)  
+  * Links: [pdf](../papers/kompcycgenmyc.pdf), [conference proceedings](http://cs.bme.hu/jh2023/kotet23.pdf)  
 * Widely colorable graphs and their multichromatic numbers  
   * With: Gábor Simonyi  
-  * Conference: 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications  
+  * Conference: 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications (2023) 
   * Links: [pdf](), [conference proceedings](http://cs.bme.hu/jh2023/kotet23.pdf)  
