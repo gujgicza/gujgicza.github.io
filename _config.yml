@@ -11,14 +11,11 @@ email: gujgicza@cs.bme.hu
 theme: minima
 
 header_pages:
-  - about.md
   - publications.md
   - talks.md
 
 include:
+  - about.md
   - publications.md
   - talks.md
   - papers/
-  
-exclude:
-  - README.md
