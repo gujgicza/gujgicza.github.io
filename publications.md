@@ -6,9 +6,18 @@ title: List of Publications
 
 #### Journal papers ####
 
-* Winding number and circular 4-coloring of signed graphs
-* Critical subgraphs of Schrijver graphs for the fractional chromatic number
-* Structured Codes of Graphs
+* Winding number and circular 4-coloring of signed graphs  
+      With: Reza Naserasr,Rohini S, Taruni S  
+      Journal: Preprint (submitted)  
+      Links: [pdf]()
+* Critical subgraphs of Schrijver graphs for the fractional chromatic number  
+      With: Gábor Simonyi  
+      Journal: Preprint (submitted)  
+      Links: [pdf](), [arXiv](https://arxiv.org/abs/2212.09520)
+* Structured Codes of Graphs  
+      With : Noga Alon, János Körner, Aleksa Milojević, Gábor Simonyi  
+      Journal: SIAM Journal on Discrete Mathematics **37.1** (2023), 379-403.  
+      Links: [pdf](), [arXiv](https://arxiv.org/abs/2202.06810), [journal](https://doi.org/10.1137/22M1487989)
 * On multichromatic numbers of widely colorable graphs  
       With : Gábor Simonyi  
       Journal : Journal of Graph Theory **100** (2022), 346-361.  
