@@ -13,7 +13,7 @@ title: List of Publications
 * Critical subgraphs of Schrijver graphs for the fractional chromatic number  
   * With: Gábor Simonyi
   * Journal: Preprint (submitted)  
-  * Links: [pdf](fractcritsub.pdf), [arXiv](https://arxiv.org/abs/2212.09520)
+  * Links: [pdf](papers/fractcritsub.pdf), [arXiv](https://arxiv.org/abs/2212.09520)
 * Structured Codes of Graphs  
   * With : Noga Alon, János Körner, Aleksa Milojević, Gábor Simonyi  
   * Journal: SIAM Journal on Discrete Mathematics **37.1** (2023), 379-403.  
