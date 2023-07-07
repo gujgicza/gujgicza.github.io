@@ -19,6 +19,7 @@ include:
   - publications.md
   - talks.md
   - footer.html
+  - papers/
   
 exclude:
   - README.md
