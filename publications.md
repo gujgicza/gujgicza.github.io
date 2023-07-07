@@ -4,7 +4,7 @@ layout: page
 title: List of Publications
 ---
 
-#### Journal papers ####
+### Journal papers ###
 
 * Winding number and circular 4-coloring of signed graphs  
       With: Reza Naserasr,Rohini S, Taruni S  
@@ -23,7 +23,7 @@ title: List of Publications
       Journal : Journal of Graph Theory **100** (2022), 346-361.  
       Links : [pdf](), [arXiv](https://arxiv.org/abs/2102.03120), [journal](https://doi.org/10.1002/jgt.22785)
 
-#### Conference papers ####
+### Conference papers ###
 
 * On the generalized Mycielskian of complements of odd cycles  
       With: Gábor Simonyi, Gábor Tardos  
